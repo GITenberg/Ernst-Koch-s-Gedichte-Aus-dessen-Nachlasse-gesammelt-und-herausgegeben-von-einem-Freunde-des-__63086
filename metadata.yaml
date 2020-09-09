@@ -1,0 +1,32 @@
+_repo: Ernst-Koch-s-Gedichte-Aus-dessen-Nachlasse-gesammelt-und-herausgegeben-von-einem-Freunde-des-__63086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Koch, Ernst
+    birthdate: 1808
+    deathdate: 1858
+    gutenberg_agent_id: '52287'
+    url: http://www.gutenberg.org/2009/agents/52287
+  editor:
+    agent_name: Housse, Ludwig
+    birthdate: 1829
+    deathdate: 1879
+    gutenberg_agent_id: '52273'
+    url: http://www.gutenberg.org/2009/agents/52273
+description: ''
+gutenberg_issued: '2020-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63086'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ernst Koch''s Gedichte
+
+  Aus dessen Nachlasse gesammelt und herausgegeben von einem
+
+  Freunde des Verstorbenen'
+url: http://www.gutenberg.org/ebooks/63086
