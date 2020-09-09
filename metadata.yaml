@@ -1,5 +1,8 @@
 _repo: Ernst-Koch-s-Gedichte-Aus-dessen-Nachlasse-gesammelt-und-herausgegeben-von-einem-Freunde-des-__63086
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63086-h/images/cover.jpg
 creator:
   author:
     agent_name: Koch, Ernst
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '52273'
     url: http://www.gutenberg.org/2009/agents/52273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63086#Ernst-Koch-s-Gedichte-Aus-dessen-Nachlasse-gesammelt-und-herausgegeben-von-einem-Freunde-des-_
 gutenberg_issued: '2020-08-31'
 gutenberg_type: Text
 identifiers:
